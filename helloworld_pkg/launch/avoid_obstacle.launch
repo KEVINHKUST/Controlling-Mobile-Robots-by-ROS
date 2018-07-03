@@ -1,0 +1,4 @@
+<launch>
+<node pkg="helloworld_pkg" type="avoid_obstacle.py" name="avoid_obstacle_node" output="screen" />
+</launch>
+

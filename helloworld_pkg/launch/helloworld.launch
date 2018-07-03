@@ -1,0 +1,5 @@
+<launch>
+    <!-- My Package launch file -->
+    <node pkg="helloworld_pkg" type="helloworld.py" name="hello" output="screen">
+    </node>
+</launch>

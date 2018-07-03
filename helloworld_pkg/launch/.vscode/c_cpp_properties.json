@@ -1,0 +1,51 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/rosvirtualserver/catkin_ws/devel/include",
+                    "/opt/ros/kinetic/include",
+                    "/home/rosvirtualserver/catkin_ws/src/depthimage_to_laserscan/include",
+                    "/home/rosvirtualserver/catkin_ws/src/fanuc/fanuc_driver/include",
+                    "/home/rosvirtualserver/catkin_ws/src/industrial_core/industrial_robot_client/include",
+                    "/home/rosvirtualserver/catkin_ws/src/industrial_core/industrial_trajectory_filters/include",
+                    "/home/rosvirtualserver/catkin_ws/src/industrial_core/industrial_utils/include",
+                    "/home/rosvirtualserver/catkin_ws/src/industrial_core/simple_message/include",
+                    "/home/rosvirtualserver/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include",
+                    "/home/rosvirtualserver/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include",
+                    "/home/rosvirtualserver/catkin_ws/src/turtlebot_apps/turtlebot_actions/include",
+                    "/home/rosvirtualserver/catkin_ws/src/turtlebot_panorama/include",
+                    "/home/rosvirtualserver/catkin_ws/src/usb_cam/include",
+                    "/home/rosvirtualserver/catkin_ws/src/veggiebot_simulations/veggiebot_fake/include",
+                    "/home/rosvirtualserver/catkin_ws/src/veggiebot_simulations/veggiebot_gazebo/include",
+                    "/home/rosvirtualserver/catkin_ws/src/veggiebot/veggiebot_interface/include",
+                    "/usr/include"
+                ]
+            },
+            "includePath": [
+                "/home/rosvirtualserver/catkin_ws/devel/include",
+                "/opt/ros/kinetic/include",
+                "/home/rosvirtualserver/catkin_ws/src/depthimage_to_laserscan/include",
+                "/home/rosvirtualserver/catkin_ws/src/fanuc/fanuc_driver/include",
+                "/home/rosvirtualserver/catkin_ws/src/industrial_core/industrial_robot_client/include",
+                "/home/rosvirtualserver/catkin_ws/src/industrial_core/industrial_trajectory_filters/include",
+                "/home/rosvirtualserver/catkin_ws/src/industrial_core/industrial_utils/include",
+                "/home/rosvirtualserver/catkin_ws/src/industrial_core/simple_message/include",
+                "/home/rosvirtualserver/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include",
+                "/home/rosvirtualserver/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include",
+                "/home/rosvirtualserver/catkin_ws/src/turtlebot_apps/turtlebot_actions/include",
+                "/home/rosvirtualserver/catkin_ws/src/turtlebot_panorama/include",
+                "/home/rosvirtualserver/catkin_ws/src/usb_cam/include",
+                "/home/rosvirtualserver/catkin_ws/src/veggiebot_simulations/veggiebot_fake/include",
+                "/home/rosvirtualserver/catkin_ws/src/veggiebot_simulations/veggiebot_gazebo/include",
+                "/home/rosvirtualserver/catkin_ws/src/veggiebot/veggiebot_interface/include",
+                "/usr/include"
+            ],
+            "name": "Linux",
+            "intelliSenseMode": "clang-x64"
+        }
+    ],
+    "version": 4
+}

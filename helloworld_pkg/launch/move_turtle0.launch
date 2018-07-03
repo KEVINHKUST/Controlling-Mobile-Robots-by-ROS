@@ -1,0 +1,19 @@
+<launch>
+	<!-- the turtle -->
+	<node pkg="turtlesim" type="turtlesim_node" name="turtesim_node" output="screen">
+	</node>
+
+	<!-- turtle controls -->
+	<node pkg="helloworld_pkg" type="move_robot.py" name="move_robot" output="screen">
+	</node>
+
+	<!-- turtle controls 
+	<node pkg="helloworld_pkg" type="helloworld_sub.py" name="sub1" output="screen">
+	</node> -->
+
+	<!-- turtle controls -->
+	<node pkg="helloworld_pkg" type="read_robot_odom.py" name="odom1" output="screen">
+	</node>
+
+</launch>
+
